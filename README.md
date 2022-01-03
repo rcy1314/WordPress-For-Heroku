@@ -2,6 +2,14 @@
 
 请勿滥用，Heroku每个月仅550小时（550/24=22.916667天）
 
+# 原作
+
+https://github.com/chenchk/wordpress-for-heroku
+
+版本很低，没有主题和插件。
+
+本仓库内置一些插件和主题。
+
 # Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -23,6 +31,5 @@
 
 + 2019
 + Argon Theme
-+ Adams
 + bravada
 + kratos
