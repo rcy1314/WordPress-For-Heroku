@@ -12,6 +12,6 @@
       }
     }
   ],
-  "logo":"https://image.1msky.cn/2020/09/09/422d658d82732.png",
+  "logo":"https://cdn.jsdelivr.net/gh/mcxiaolan/jsdelivr/WordPress-Logo.png",
   "stack": "heroku-18"
 }
