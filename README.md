@@ -1,6 +1,6 @@
-# wp-for-heroku
+# WordPress-For-Heroku
 
-仅作为测试，Heroku每个月仅550小时（550/24=22.916667天）
+请勿滥用，Heroku每个月仅550小时（550/24=22.916667天）
 
 # Deploy
 
