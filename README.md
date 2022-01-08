@@ -2,6 +2,10 @@
 
 请勿滥用，Heroku每个月仅550小时（550/24=22.916667天）
 
+# Demo
+
+https://xl-wp.herokuapp.com
+
 # 原作
 
 https://github.com/chenchk/wordpress-for-heroku
